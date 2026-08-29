@@ -13,4 +13,4 @@ C++ developer building game engines, tools, and whatever else pulls my interest 
 `C++` `Raylib` `Python` `TypeScript` `Spring Boot`
 
 ---
-📫 Reach me via GitHub issues/PRs on my repos above.
+Reach me via GitHub issues/PRs on my repos above.
