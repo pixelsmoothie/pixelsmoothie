@@ -13,9 +13,5 @@ C++ developer building game engines, tools, and whatever else pulls my interest 
 
 `C++` `Rust` `TypeScript` `React` `Next.js` `Spring Boot`
 
-## Currently
-
-Leading intern onboarding and issue triage on [Vipto](https://github.com/Vipto) — a product marketplace app built in Flutter.
-
 ---
 📫 Reach me via GitHub issues/PRs on my repos above.
