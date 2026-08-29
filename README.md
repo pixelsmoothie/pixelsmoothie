@@ -1,13 +1,21 @@
-### Hi, I'm Niraj 👋
+# Hi, I'm Niraj 👋
 
-C++ / systems-leaning developer, currently studying Electronics & Computer Engineering at Pune Institute of Computer Technology.
+C++ developer building game engines, tools, and whatever else pulls my interest — currently spending time across systems-level C++ and full-stack side projects.
 
-I like building things from scratch rather than assembling them from libraries — a game engine's audio/render loop, a WebSocket relay, whatever teaches me how the layer underneath actually works.
+## What I've been building
 
-**Currently building:**
-- 🎮 [vStrike](https://github.com/pixelsmoothie/vStrike) — a from-scratch C++17 Pong engine with a tabular Q-learning AI opponent, cross-compiled to WebAssembly · [live demo](https://pixelsmoothie.github.io/vStrike/)
-- 🖊️ [Skitch Board](https://github.com/pixelsmoothie/collaborative-whiteboard) — a real-time collaborative whiteboard (WebSocket sync, room isolation, sandboxed live-JS code nodes) · [live demo](https://collaborative-whiteboard-seven-xi.vercel.app)
+- **[vStrike](https://github.com/pixelsmoothie/vStrike)** — a C++ battle-Pong game built with Raylib, featuring dynamic HP duel mechanics and escalating difficulty scaling.
+- **[vAudioRack](https://github.com/pixelsmoothie/vAudioRack)** — a C++ audio tooling project.
+- **[collaborative-whiteboard](https://github.com/pixelsmoothie/collaborative-whiteboard)** — real-time collaborative whiteboard with WebSocket drawing sync, room isolation, and sandboxed live-JS code nodes. React + Spring Boot + AWS S3.
+- **[Qued-DSA-Tracker](https://github.com/pixelsmoothie/Qued-DSA-Tracker)** — a desktop-native DSA tracking workstation with local data slates, real-time code judging, and an integrated AI coach. Built with Next.js, Tauri (Rust), and Supabase.
 
-**Stack I reach for:** C++, Java, Python, TypeScript/React, Spring Boot
+## Stack
 
-📫 niraj.sutar27@gmail.com
+`C++` `Rust` `TypeScript` `React` `Next.js` `Spring Boot`
+
+## Currently
+
+Leading intern onboarding and issue triage on [Vipto](https://github.com/Vipto) — a product marketplace app built in Flutter.
+
+---
+📫 Reach me via GitHub issues/PRs on my repos above.
